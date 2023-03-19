@@ -24,7 +24,7 @@ This is my (Work in progress) portfolio showcasing my exciting projects!
 
 ### Projects
 
-### [Datawarehouse modeling for a mutlidimensional reporting system](https://github.com/harrisonjansma/2019_Notes/tree/master/ML/NLP/PyTorch%20RNN%20Implementations)
+### [Datawarehouse modeling for a mutlidimensional reporting system](https://github.com/SaadJbra/Datawarehouse-modeling-for-a-mutlidimensional-reporting-system.git)
 
 <p>
 In this project, my goal is to create a real-time multidimensional solution that integrates opreational data provided by CTI (computer telephony integration).
