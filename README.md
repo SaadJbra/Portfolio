@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="images/jbra.png" height=300></p>
+<img src="images/IMG_jbra.png" height=300></p>
 
 Hi, my name is saad JABRI.
 
