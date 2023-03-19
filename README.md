@@ -16,7 +16,7 @@ This is my (Work in progress) portfolio showcasing my exciting projects!
 ### My Professional Experience
 
   <p align="center">
-<a href="https://www.linkedin.com/in/saad-jabri/"><img src="images/Linkedin.PNG"></a></p>
+<a href="https://www.linkedin.com/in/saad-jabri/"><img src="images/LinkedIn.png"></a></p>
   
   <p>I have extensive experience leading teams and developing solutions in the field of data, with a focus on business intelligence and data engineering. My ability to work collaboratively and communicate effectively has allowed me to consistently deliver high-quality projects and exceed expectations.</p>
 
